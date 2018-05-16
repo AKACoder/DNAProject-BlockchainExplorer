@@ -7,7 +7,7 @@
 
 ### 主要功能
 展示DNAProject based的区块链上的区块、各种类型的交易、UTXO清算后的转账列表、已注册的资产、出现过的地址等信息。  
-demo_image目录下有展示截图。
+[demo_image](https://github.com/AKACoder/DNAProject-BlockchainExplorer/tree/master/demo_image)目录下有展示截图。
 
 ### TODO
 - 资产发行详情  
